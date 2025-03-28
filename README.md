@@ -28,5 +28,13 @@ Further analyses that could yield additional insights to further improve the avi
  - **Pilot selection.** This modeling will show priority to experienced pilots to enhance the safety of the customers and limit accidents.
  - **Weather data analysis** This model will provide critical data on the different weather patterns and which of those can be handled by the aircrafts and which will need a halt in operations for passenger and aircraft safety.
 ## For More Information
-See the full analysis in the [Jupyter Notebook](aviation_company_risk_analysis.ipynb).
+See the full analysis in the [Jupyter Notebook](aviation_company_risk_analysis.ipynb) or review this [presentation](https://github.com/CWanderi/Clement_Project_Phase_1/blob/main/Aviation%20Company%20Risk%20Analysis.pdf).
 ## Repository Structure
+
+```
+├── data
+├── images
+├── README.md
+├── Aviation Company Risk Analysis.pdf
+└── aviation_company_risk_analysis.ipynb
+```
