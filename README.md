@@ -1,5 +1,6 @@
 ![Aircrafts Image](https://github.com/CWanderi/Clement_Project_Phase_1/blob/main/images/Aircrafts.png)
 # Aviation Company Risk Analysis
+**Author**: [Clement Wanderi](mailto:clement.wanderi@student.moringaschool.com)
 ## Overview
 This project analyzes the risks involved in the running of an aircraft business. This is essential as the company is planning on expanding its portfolio by getting into that sector. In this notebook, we analyze a dataset that entails the logs of aircraft accidents that run from 1948 to 2022. The company will utilize this analysis in the allocation of resources machine procurement, operation and risk mitigation, so as to achieve the highest profitability and human safety in the sector.
 ## Business Problem
